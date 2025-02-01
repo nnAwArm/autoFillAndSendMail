@@ -10,3 +10,4 @@ for example:
  .. etc. 
 
 that carried from excel file.
+- NOTE: the project still on the prosess .. 
